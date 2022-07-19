@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: url(https://wallpaperaccess.com/full/1146672.jpg);
+}
+.search-box{
+    text-align: center;
+    margin: 20px 20px;
+    
+}
+.search-box .search-bar{
+    padding: 15px 15px;
+    border-radius: 0 0 12px 12px ;
+    width: 80%;
+    height: 3vw;
+    background-color: white;
+    box-shadow:0 15px rgba(0,0,0,0.2);
+    transition: width 1s,height 1s,box-shadow 1s;
+}
+
+.search-box .search-bar:focus {
+    
+    background-color: white;
+    width: 90%;
+    box-shadow:0 20px rgba(0,0,0,0.2);
+    height: 5vw;
+}
+
+
