@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alham15/weather-forecasting-1.git/static/css/main.44908681.css",
+    "main.js": "/Alham15/weather-forecasting-1.git/static/js/main.6fcc9dad.js",
+    "index.html": "/Alham15/weather-forecasting-1.git/index.html",
+    "main.44908681.css.map": "/Alham15/weather-forecasting-1.git/static/css/main.44908681.css.map",
+    "main.6fcc9dad.js.map": "/Alham15/weather-forecasting-1.git/static/js/main.6fcc9dad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44908681.css",
+    "static/js/main.6fcc9dad.js"
+  ]
+}
